@@ -1,2 +1,2 @@
-# Stock
- Stock Info
+# New
+ Stock Information

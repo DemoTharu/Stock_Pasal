@@ -1,0 +1,42 @@
+.table{
+    width: 100%;
+    height: auto;
+    position: absolute;
+    margin: 8vh 0px 0px 0vh;
+}
+table{
+    border: 1px solid black;
+    margin: 5vh 10vh 5vh 10vh;
+    width: 90%;
+    text-align: center;
+    border-collapse: collapse;
+}
+tr,td{
+    padding: 10px;
+    border: 1px solid black;
+}
+thead{
+    text-transform: uppercase;
+    background-color: lightblue;
+    
+}
+.a{
+    text-align: left;
+}
+.fa-solid{
+    cursor: pointer;
+    font-size: 15px;
+    background-color: none;
+}
+.btn{
+    background-color: none;
+    border: none;
+}
+input[type='number']{
+    width: 50px;
+    padding: 5px;
+    font-size: 16px;
+    outline: none;
+    border: none;
+    text-align: center;
+}
